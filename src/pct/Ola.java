@@ -12,7 +12,7 @@ package pct;
 public class Ola {
     public static void main(String[] args) {
         //Escrevendo 'Boa Tarde à Todos'
-        System.out.println("Boa Tarde à Todos!");
+        System.out.println("Alõ");
         
     }
     
